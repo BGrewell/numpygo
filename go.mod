@@ -1,5 +1,3 @@
-module github.com/praveenpenumaka/numpygo
+module github.com/BGrewell/numpygo
 
 go 1.14
-
-require github.com/stretchr/testify v1.6.1
